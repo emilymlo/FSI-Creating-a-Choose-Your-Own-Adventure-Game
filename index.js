@@ -46,7 +46,7 @@ the 'staircase' or the 'ladder'?`)
         } else if (thirdAnswer === 'run') {
             window.alert(`Quickly, you run back to the cave's entrance. Sheepish, you return home.`)
         }
-    // 2nd - away from the dragon
+    // 2nd -- away from the dragon
     } else if (secondAnswer === 'away from the dragon') {
         // 3rd prompt
         let thirdAnswer = window.prompt(`After walking a while longer, you come across a shiny blue flower. It is so beautiful that you decide you must either 'draw it' or 'pick it'. Which do you do?`)
